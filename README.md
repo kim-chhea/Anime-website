@@ -37,7 +37,7 @@ Dedicated pages for different genres like Action, Comedy, Magic, Romance, and Sp
 
 ```plaintext
 .vscode/       # Configuration files
-About us/      # About Us page
+about-us/      # About Us page (renamed from "About us")
 img/           # Images and assets
 Login/         # Login page
 main-page/     # Main landing page with index.html, CSS, and JS
@@ -59,6 +59,11 @@ Verify/        # Verification page
    ```
 2. Open the project folder in your code editor.
 3. Open `main-page/index.html` in a browser to view the homepage.
+
+## Deployment Notes
+
+- I added a root `index.html` that redirects to `/main-page/index.html` and a `_redirects` file for Netlify so the site root will load correctly.
+- I renamed `About us/` to `about-us/` and updated internal links to be root-relative (e.g. `/about-us/index.html`) so they work on case-sensitive hosting like Netlify.
 
 ## Future Enhancements
 

@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
@@ -33,7 +33,7 @@
     <ul class="d-flex navbar-nav mr-auto mb-2 mb-lg-0 mx-auto">
 
       <li class="nav-item">
-        <a class="nav-link" href="http://127.0.0.1:5501/main-page/index.html">Movies</a>
+        <a class="nav-link" href="/main-page/index.html">Movies</a>
       </li>
     
       <!-- Dropdown -->
@@ -64,7 +64,7 @@
     <div class="d-flex flex-column sim me-3">
 
       <span><button class=" button-member btn btn-dark ">
-        <a href="http://127.0.0.1:5501/Become%20member%20form/index.html" class="btn btn-dark text-decoration-none">Become a Member</a>
+        <a href="/Register/index.html" class="btn btn-dark text-decoration-none">Become a Member</a>
       </button></span>
       
     </div>
@@ -81,7 +81,7 @@
     <!-- /////////////////////////////////////////////////////////////////////////////////// box-2 -->
         <div class="col-12 col-xxl-2 col-xl-3 col-lg-4 col-sm-6 col-md-4 position-relative">
         ​​​​​​​  ​​     <div class="card bg-dark position-relative">
-          <a href="http://127.0.0.1:5501/tezt-components/index.html"></a>
+          <a href="/tezt-components/index.html"></a>
           <div class="card-img position-absolute">
             <img
                   src="https://mochi-ten.vercel.app/_next/image?url=https%3A%2F%2Fs4.anilist.co%2Ffile%2Fanilistcdn%2Fmedia%2Fanime%2Fcover%2Flarge%2Fbx21459-RoPwgrZ32gM3.jpg&w=640&q=75"
@@ -98,7 +98,7 @@
             
           </div>
          <div class="card-icon position-absolute mee-0  bg-dark mt-2 text-center ">
-         <a href="http://127.0.0.1:5501/tezt-components/indec.html"><i class="fa-solid fa-plus pt-1 text-light"></i></a> 
+         <a href="/tezt-components/index.html"><i class="fa-solid fa-plus pt-1 text-light"></i></a> 
          </div>
          <div class="card-text position-absolute px-3 w-100 mtt  text-light">
           <p><strong class="w-100">My Hero acedemy.</strong></p>
@@ -110,7 +110,7 @@
         <!-- //////////////////////// -->
         <div class="col-12 col-xxl-2 col-xl-3 col-lg-4 col-sm-6 col-md-4 position-relative ">
         ​​​​​​​  ​​     <div class="card bg-dark">
-          <a href="http://127.0.0.1:5501/tezt-components/index.html"></a>
+          <a href="/tezt-components/index.html"></a>
           <div class="card-img ">
             <img
             src="https://mochi-ten.vercel.app/_next/image?url=https%3A%2F%2Fs4.anilist.co%2Ffile%2Fanilistcdn%2Fmedia%2Fanime%2Fcover%2Flarge%2Fbx152137-DOCIkAiaWALu.jpg&w=640&q=75"
@@ -127,7 +127,7 @@
                 
               </div>
              <div class="card-icon position-absolute mee-0  bg-dark mt-2 text-center ">
-             <a href="http://127.0.0.1:5501/tezt-components/indec.html"><i class="fa-solid fa-plus pt-1 text-light"></i></a> 
+             <a href="/tezt-components/index.html"><i class="fa-solid fa-plus pt-1 text-light"></i></a> 
              </div>
              <div class="card-text position-absolute px-3 w-100 mtt  text-light">
               <p><strong class="w-100">The Elusive Sumerai</strong></p>
@@ -139,7 +139,7 @@
         <!-- ////////////////////////// -->
         <div class="col-12 col-xxl-2 col-xl-3 col-lg-4 col-sm-6 col-md-4 position-relative">
         ​​​​​​​  ​​     <div class="card bg-dark">
-          <a href="http://127.0.0.1:5501/tezt-components/index.html"></a>
+          <a href="/tezt-components/index.html"></a>
           <div class="card-img ">
             <img
             src="https://mochi-ten.vercel.app/_next/image?url=https%3A%2F%2Fs4.anilist.co%2Ffile%2Fanilistcdn%2Fmedia%2Fanime%2Fcover%2Flarge%2Fbx21087-2OkAdgfnQown.jpg&w=640&q=75"
@@ -156,7 +156,7 @@
                 
               </div>
              <div class="card-icon position-absolute mee-0  bg-dark mt-2 text-center ">
-             <a href="http://127.0.0.1:5501/tezt-components/indec.html"><i class="fa-solid fa-plus pt-1 text-light"></i></a> 
+             <a href="/tezt-components/index.html"><i class="fa-solid fa-plus pt-1 text-light"></i></a> 
              </div>
              <div class="card-text position-absolute px-3 w-100 mtt  text-light">
               <p><strong class="w-100">One Punch Men</strong></p>
@@ -168,7 +168,7 @@
         <!-- /////////////////// -->
         <div class="col-12 col-xxl-2 col-xl-3 col-lg-4 col-sm-6 col-md-4 position-relative">
         ​​​​​​​  ​​     <div class="card bg-dark">
-          <a href="http://127.0.0.1:5501/tezt-components/index.html"></a>
+          <a href="/tezt-components/index.html"></a>
           <div class="card-img ">  <img
             src="https://mochi-ten.vercel.app/_next/image?url=https%3A%2F%2Fs4.anilist.co%2Ffile%2Fanilistcdn%2Fmedia%2Fanime%2Fcover%2Flarge%2Fbx16498-73IhOXpJZiMF.jpg&w=640&q=75"
             alt=""
@@ -183,7 +183,7 @@
                 
               </div>
              <div class="card-icon position-absolute mee-0  bg-dark mt-2 text-center ">
-             <a href="http://127.0.0.1:5501/tezt-components/indec.html"><i class="fa-solid fa-plus pt-1 text-light"></i></a> 
+             <a href="/tezt-components/index.html"><i class="fa-solid fa-plus pt-1 text-light"></i></a> 
              </div>
              <div class="card-text position-absolute px-3 w-100 mtt  text-light">
               <p><strong class="w-100">Attack On Titan</strong></p>
@@ -195,7 +195,7 @@
         <!-- //////////////////////////   -->
         <div class="col-12 col-xxl-2 col-xl-3 col-lg-4 col-sm-6 col-md-4 position-relative">
           ​​​​​​​  ​​     <div class="card bg-dark">
-            <a href="http://127.0.0.1:5501/tezt-components/index.html"></a>
+            <a href="/tezt-components/index.html"></a>
             <div class="card-img ">
               <img
               src="https://mochi-ten.vercel.app/_next/image?url=https%3A%2F%2Fs4.anilist.co%2Ffile%2Fanilistcdn%2Fmedia%2Fanime%2Fcover%2Flarge%2Fnx20605-fmnHdfurM7m6.jpg&w=640&q=75"
@@ -212,7 +212,7 @@
                   
                 </div>
                <div class="card-icon position-absolute mee-0  bg-dark mt-2 text-center ">
-               <a href="http://127.0.0.1:5501/tezt-components/indec.html"><i class="fa-solid fa-plus pt-1 text-light"></i></a> 
+               <a href="/tezt-components/index.html"><i class="fa-solid fa-plus pt-1 text-light"></i></a> 
                </div>
                <div class="card-text position-absolute px-3 w-100 mtt  text-light">
                 <p><strong class="w-100">Tokyob Ghoul</strong></p>
@@ -224,7 +224,7 @@
           <!-- ////////////////  -->
           <div class="col-12 col-xxl-2 col-xl-3 col-lg-4 col-sm-6 col-md-4 position-relative">
             ​​​​​​​  ​​     <div class="card bg-dark">
-              <a href="http://127.0.0.1:5501/tezt-components/index.html"></a>
+              <a href="/tezt-components/index.html"></a>
               <div class="card-img ">
                 <img
                 src="https://mochi-ten.vercel.app/_next/image?url=https%3A%2F%2Fs4.anilist.co%2Ffile%2Fanilistcdn%2Fmedia%2Fanime%2Fcover%2Flarge%2Fnx11757-Q9P2zjCPICq5.jpg&w=640&q=75"
@@ -241,7 +241,7 @@
                     
                   </div>
                  <div class="card-icon position-absolute mee-0  bg-dark mt-2 text-center ">
-                 <a href="http://127.0.0.1:5501/tezt-components/indec.html"><i class="fa-solid fa-plus pt-1 text-light"></i></a> 
+                 <a href="/tezt-components/index.html"><i class="fa-solid fa-plus pt-1 text-light"></i></a> 
                  </div>
                  <div class="card-text position-absolute  px-3  w-100 mtt  text-light">
                   <p><strong class="w-100">Sword Art Online</strong></p>
@@ -256,7 +256,7 @@
    
           <div class="col-12 col-xxl-2 col-xl-3 col-lg-4 col-sm-6 col-md-4 position-relative">
           ​​​​​​​  ​​     <div class="card bg-dark position-relative">
-            <a href="http://127.0.0.1:5501/tezt-components/index.html"></a>
+            <a href="/tezt-components/index.html"></a>
             <div class="card-img position-absolute">
               <img
                     src="https://mochi-ten.vercel.app/_next/image?url=https%3A%2F%2Fs4.anilist.co%2Ffile%2Fanilistcdn%2Fmedia%2Fanime%2Fcover%2Flarge%2Fbx139095-xXcToL6L4vuv.jpg&w=640&q=75"
@@ -273,7 +273,7 @@
               
             </div>
            <div class="card-icon position-absolute mee-0  bg-dark mt-2 text-center ">
-           <a href="http://127.0.0.1:5501/tezt-components/indec.html"><i class="fa-solid fa-plus pt-1 text-light"></i></a> 
+           <a href="/tezt-components/index.html"><i class="fa-solid fa-plus pt-1 text-light"></i></a> 
            </div>
            <div class="card-text position-absolute px-3 w-100 mtt  text-light">
             <p><strong class="w-100">My Hero acedemy.</strong></p>
@@ -285,7 +285,7 @@
         <!-- ////////////// -->
           <div class="col-12 col-xxl-2 col-xl-3 col-lg-4 col-sm-6 col-md-4 position-relative">
           ​​​​​​​  ​​     <div class="card bg-dark">
-            <a href="http://127.0.0.1:5501/tezt-components/index.html"></a>
+            <a href="/tezt-components/index.html"></a>
             <div class="card-img ">
               <img
               src="https://mochi-ten.vercel.app/_next/image?url=https%3A%2F%2Fs4.anilist.co%2Ffile%2Fanilistcdn%2Fmedia%2Fanime%2Fcover%2Flarge%2Fbx153288-tD2OmKy5CJab.jpg&w=640&q=75"
@@ -302,7 +302,7 @@
                   
                 </div>
                <div class="card-icon position-absolute mee-0  bg-dark mt-2 text-center ">
-               <a href="http://127.0.0.1:5501/tezt-components/indec.html"><i class="fa-solid fa-plus pt-1 text-light"></i></a> 
+               <a href="/tezt-components/index.html"><i class="fa-solid fa-plus pt-1 text-light"></i></a> 
                </div>
                <div class="card-text position-absolute px-3 w-100 mtt  text-light">
                 <p><strong class="w-100">Kaiju No.8</strong></p>
@@ -314,7 +314,7 @@
           <!-- ///////////////////// -->
           <div class="col-12 col-xxl-2 col-xl-3 col-lg-4 col-sm-6 col-md-4 position-relative">
           ​​​​​​​  ​​     <div class="card bg-dark">
-            <a href="http://127.0.0.1:5501/tezt-components/index.html"></a>
+            <a href="/tezt-components/index.html"></a>
             <div class="card-img ">
               <img
               src="https://mochi-ten.vercel.app/_next/image?url=https%3A%2F%2Fs4.anilist.co%2Ffile%2Fanilistcdn%2Fmedia%2Fanime%2Fcover%2Flarge%2Fbx113415-bbBWj4pEFseh.jpg&w=640&q=75"
@@ -331,7 +331,7 @@
                   
                 </div>
                <div class="card-icon position-absolute mee-0  bg-dark mt-2 text-center ">
-               <a href="http://127.0.0.1:5501/tezt-components/indec.html"><i class="fa-solid fa-plus pt-1 text-light"></i></a> 
+               <a href="/tezt-components/index.html"><i class="fa-solid fa-plus pt-1 text-light"></i></a> 
                </div>
                <div class="card-text position-absolute px-3 w-100 mtt  text-light">
                 <p><strong class="w-100">Jujusu Kaisen</strong></p>
@@ -343,7 +343,7 @@
           <!-- ///////////////////////// -->
           <div class="col-12 col-xxl-2 col-xl-3 col-lg-4 col-sm-6 col-md-4 position-relative">
           ​​​​​​​  ​​     <div class="card bg-dark">
-            <a href="http://127.0.0.1:5501/tezt-components/index.html"></a>
+            <a href="/tezt-components/index.html"></a>
             <div class="card-img ">  <img
               src="https://mochi-ten.vercel.app/_next/image?url=https%3A%2F%2Fs4.anilist.co%2Ffile%2Fanilistcdn%2Fmedia%2Fanime%2Fcover%2Flarge%2Fbx269-wc062RMqud8B.png&w=640&q=75"
               alt=""
@@ -358,7 +358,7 @@
                   
                 </div>
                <div class="card-icon position-absolute mee-0  bg-dark mt-2 text-center ">
-               <a href="http://127.0.0.1:5501/tezt-components/indec.html"><i class="fa-solid fa-plus pt-1 text-light"></i></a> 
+               <a href="/tezt-components/index.html"><i class="fa-solid fa-plus pt-1 text-light"></i></a> 
                </div>
                <div class="card-text position-absolute px-3 w-100 mtt  text-light">
                 <p><strong class="w-100">Bleach</strong></p>
@@ -370,7 +370,7 @@
           <!-- //  -->
           <div class="col-12 col-xxl-2 col-xl-3 col-lg-4 col-sm-6 col-md-4 position-relative">
             ​​​​​​​  ​​     <div class="card bg-dark">
-              <a href="http://127.0.0.1:5501/tezt-components/index.html"></a>
+              <a href="/tezt-components/index.html"></a>
               <div class="card-img ">
                 <img
                 src="https://mochi-ten.vercel.app/_next/image?url=https%3A%2F%2Fs4.anilist.co%2Ffile%2Fanilistcdn%2Fmedia%2Fanime%2Fcover%2Flarge%2Fbx21-YCDoj1EkAxFn.jpg&w=640&q=75"
@@ -387,7 +387,7 @@
                     
                   </div>
                  <div class="card-icon position-absolute mee-0  bg-dark mt-2 text-center ">
-                 <a href="http://127.0.0.1:5501/tezt-components/indec.html"><i class="fa-solid fa-plus pt-1 text-light"></i></a> 
+                 <a href="/tezt-components/index.html"><i class="fa-solid fa-plus pt-1 text-light"></i></a> 
                  </div>
                  <div class="card-text position-absolute px-3 w-100 mtt  text-light">
                   <p><strong class="w-100">One Piece</strong></p>
@@ -399,7 +399,7 @@
             <!-- /// -->
             <div class="col-12 col-xxl-2 col-xl-3 col-lg-4 col-sm-6 col-md-4 position-relative">
               ​​​​​​​  ​​     <div class="card bg-dark">
-                <a href="http://127.0.0.1:5501/tezt-components/index.html"></a>
+                <a href="/tezt-components/index.html"></a>
                 <div class="card-img ">
                   <img
                   src="https://mochi-ten.vercel.app/_next/image?url=https%3A%2F%2Fs4.anilist.co%2Ffile%2Fanilistcdn%2Fmedia%2Fanime%2Fcover%2Flarge%2Fbx173584-nyZElmr8218W.jpg&w=640&q=75"
@@ -416,7 +416,7 @@
                       
                     </div>
                    <div class="card-icon position-absolute mee-0  bg-dark mt-2 text-center ">
-                   <a href="http://127.0.0.1:5501/tezt-components/indec.html"><i class="fa-solid fa-plus pt-1 text-light"></i></a> 
+                   <a href="/tezt-components/index.html"><i class="fa-solid fa-plus pt-1 text-light"></i></a> 
                    </div>
                    <div class="card-text position-absolute  px-3  w-100 mtt  text-light">
                     <p><strong class="w-100">The War..</strong></p>
@@ -434,7 +434,7 @@
     <strong class="fs-3 text-discovery">Most Rated(Of All Time)</strong>
     <div class="col-12 col-xxl-2 col-xl-3 col-lg-4 col-sm-6 col-md-4 position-relative">
       ​​​​​​​  ​​     <div class="card bg-dark position-relative">
-        <a href="http://127.0.0.1:5501/tezt-components/index.html">
+        <a href="/tezt-components/index.html">
         <div class="card-img position-absolute">
           <img
                 src="https://img.flawlessfiles.com/_r/300x400/100/bc/d8/bcd84731a3eda4f4a306250769675065/bcd84731a3eda4f4a306250769675065.jpg"
@@ -451,7 +451,7 @@
           
         </div>
        <div class="card-icon position-absolute mee-0  bg-dark mt-2 text-center ">
-       <a href="http://127.0.0.1:5501/tezt-components/indec.html"><i class="fa-solid fa-plus pt-1 text-light"></i></a> 
+       <a href="/tezt-components/index.html"><i class="fa-solid fa-plus pt-1 text-light"></i></a> 
        </div>
       
       </a>
@@ -460,7 +460,7 @@
     <!-- // -->
     <div class="col-12 col-xxl-2 col-xl-3 col-lg-4 col-sm-6 col-md-4 position-relative">
       ​​​​​​​  ​​     <div class="card bg-dark">
-        <a href="http://127.0.0.1:5501/tezt-components/index.html"></a>
+        <a href="/tezt-components/index.html"></a>
         <div class="card-img ">
           <img
           src="https://mochi-ten.vercel.app/_next/image?url=https%3A%2F%2Fs4.anilist.co%2Ffile%2Fanilistcdn%2Fmedia%2Fanime%2Fcover%2Flarge%2Fbx269-wc062RMqud8B.png&w=640&q=75"
@@ -477,7 +477,7 @@
               
             </div>
            <div class="card-icon position-absolute mee-0  bg-dark mt-2 text-center ">
-           <a href="http://127.0.0.1:5501/tezt-components/indec.html"><i class="fa-solid fa-plus pt-1 text-light"></i></a> 
+           <a href="/tezt-components/index.html"><i class="fa-solid fa-plus pt-1 text-light"></i></a> 
            </div>
          
       </div>
@@ -486,7 +486,7 @@
       <!-- // -->
       <div class="col-12 col-xxl-2 col-xl-3 col-lg-4 col-sm-6 col-md-4 position-relative">
       ​​​​​​​  ​​     <div class="card bg-dark">
-        <a href="http://127.0.0.1:5501/tezt-components/index.html"></a>
+        <a href="/tezt-components/index.html"></a>
         <div class="card-img ">
           <img
           src="https://img.flawlessfiles.com/_r/300x400/100/9c/bc/9cbcf87f54194742e7686119089478f8/9cbcf87f54194742e7686119089478f8.jpg"
@@ -503,7 +503,7 @@
               
             </div>
            <div class="card-icon position-absolute mee-0  bg-dark mt-2 text-center ">
-           <a href="http://127.0.0.1:5501/tezt-components/indec.html"><i class="fa-solid fa-plus pt-1 text-light"></i></a> 
+           <a href="/tezt-components/index.html"><i class="fa-solid fa-plus pt-1 text-light"></i></a> 
            </div>
          
       </div>
@@ -512,7 +512,7 @@
       <!-- // -->
       <div class="col-12 col-xxl-2 col-xl-3 col-lg-4 col-sm-6 col-md-4 position-relative">
       ​​​​​​​  ​​     <div class="card bg-dark">
-        <a href="http://127.0.0.1:5501/tezt-components/index.html"></a>
+        <a href="/tezt-components/index.html"></a>
         <div class="card-img ">  <img
           src="https://mochi-ten.vercel.app/_next/image?url=https%3A%2F%2Fs4.anilist.co%2Ffile%2Fanilistcdn%2Fmedia%2Fanime%2Fcover%2Flarge%2Fbx269-wc062RMqud8B.png&w=640&q=75"
           alt=""
@@ -527,7 +527,7 @@
               
             </div>
            <div class="card-icon position-absolute mee-0  bg-dark mt-2 text-center ">
-           <a href="http://127.0.0.1:5501/tezt-components/indec.html"><i class="fa-solid fa-plus pt-1 text-light"></i></a> 
+           <a href="/tezt-components/index.html"><i class="fa-solid fa-plus pt-1 text-light"></i></a> 
            </div>
          
       </div>
@@ -536,7 +536,7 @@
       <!-- // -->
       <div class="col-12 col-xxl-2 col-xl-3 col-lg-4 col-sm-6 col-md-4 position-relative">
         ​​​​​​​  ​​     <div class="card bg-dark">
-          <a href="http://127.0.0.1:5501/tezt-components/index.html"></a>
+          <a href="/tezt-components/index.html"></a>
           <div class="card-img ">
             <img
             src="https://img.flawlessfiles.com/_r/300x400/100/fc/ed/fced51e392ffd80041b3a1581ba7de2f/fced51e392ffd80041b3a1581ba7de2f.jpg"
@@ -553,7 +553,7 @@
                 
               </div>
              <div class="card-icon position-absolute mee-0  bg-dark mt-2 text-center ">
-             <a href="http://127.0.0.1:5501/tezt-components/indec.html"><i class="fa-solid fa-plus pt-1 text-light"></i></a> 
+             <a href="/tezt-components/index.html"><i class="fa-solid fa-plus pt-1 text-light"></i></a> 
              </div>
             
         </div>
@@ -562,7 +562,7 @@
         <!-- // -->
         <div class="col-12 col-xxl-2 col-xl-3 col-lg-4 col-sm-6 col-md-4 position-relative">
           ​​​​​​​  ​​     <div class="card bg-dark">
-            <a href="http://127.0.0.1:5501/tezt-components/index.html"></a>
+            <a href="/tezt-components/index.html"></a>
             <div class="card-img ">
               <img
               src="https://img.flawlessfiles.com/_r/300x400/100/f5/8b/f58b0204c20ae3310f65ae7b8cb9987e/f58b0204c20ae3310f65ae7b8cb9987e.jpg"
@@ -579,7 +579,7 @@
                   
                 </div>
                <div class="card-icon position-absolute mee-0  bg-dark mt-2 text-center ">
-               <a href="http://127.0.0.1:5501/tezt-components/indec.html"><i class="fa-solid fa-plus pt-1 text-light"></i></a> 
+               <a href="/tezt-components/index.html"><i class="fa-solid fa-plus pt-1 text-light"></i></a> 
                </div>
            
           </div>
@@ -600,7 +600,7 @@
           <!-- // -->
           <div class="col-12 col-xxl-2 col-xl-3 col-lg-4 col-sm-6 col-md-4 position-relative">
             ​​​​​​​  ​​     <div class="card bg-dark position-relative">
-              <a href="http://127.0.0.1:5501/tezt-components/index.html"></a>
+              <a href="/tezt-components/index.html"></a>
               <div class="card-img position-absolute">
                 <img
                       src="https://img.flawlessfiles.com/_r/300x400/100/f5/8b/f58b0204c20ae3310f65ae7b8cb9987e/f58b0204c20ae3310f65ae7b8cb9987e.jpg"
@@ -617,7 +617,7 @@
                 
               </div>
              <div class="card-icon position-absolute mee-0  bg-dark mt-2 text-center ">
-             <a href="http://127.0.0.1:5501/tezt-components/indec.html"><i class="fa-solid fa-plus pt-1 text-light"></i></a> 
+             <a href="/tezt-components/index.html"><i class="fa-solid fa-plus pt-1 text-light"></i></a> 
              </div>
             
               
@@ -626,7 +626,7 @@
           <!-- // -->
             <div class="col-12 col-xxl-2 col-xl-3 col-lg-4 col-sm-6 col-md-4 position-relative">
             ​​​​​​​  ​​     <div class="card bg-dark">
-              <a href="http://127.0.0.1:5501/tezt-components/index.html"></a>
+              <a href="/tezt-components/index.html"></a>
               <div class="card-img ">
                 <img
                 src="https://img.flawlessfiles.com/_r/300x400/100/16/08/160831b6a0c1303e1439925d8f8c7395/160831b6a0c1303e1439925d8f8c7395.jpg"
@@ -643,7 +643,7 @@
                     
                   </div>
                  <div class="card-icon position-absolute mee-0  bg-dark mt-2 text-center ">
-                 <a href="http://127.0.0.1:5501/tezt-components/indec.html"><i class="fa-solid fa-plus pt-1 text-light"></i></a> 
+                 <a href="/tezt-components/index.html"><i class="fa-solid fa-plus pt-1 text-light"></i></a> 
                  </div>
               
             </div>
@@ -652,7 +652,7 @@
             <!-- // -->
             <div class="col-12 col-xxl-2 col-xl-3 col-lg-4 col-sm-6 col-md-4 position-relative">
             ​​​​​​​  ​​     <div class="card bg-dark">
-              <a href="http://127.0.0.1:5501/tezt-components/index.html"></a>
+              <a href="/tezt-components/index.html"></a>
               <div class="card-img ">
                 <img
                 src="https://img.flawlessfiles.com/_r/300x400/100/5e/61/5e61f3e7c0045e46b670d31a5bb39c68/5e61f3e7c0045e46b670d31a5bb39c68.jpg"
@@ -669,7 +669,7 @@
                     
                   </div>
                  <div class="card-icon position-absolute mee-0  bg-dark mt-2 text-center ">
-                 <a href="http://127.0.0.1:5501/tezt-components/indec.html"><i class="fa-solid fa-plus pt-1 text-light"></i></a> 
+                 <a href="/tezt-components/index.html"><i class="fa-solid fa-plus pt-1 text-light"></i></a> 
                  </div>
                 
             </div>
@@ -678,7 +678,7 @@
             <!-- //  -->
             <div class="col-12 col-xxl-2 col-xl-3 col-lg-4 col-sm-6 col-md-4 position-relative">
             ​​​​​​​  ​​     <div class="card bg-dark">
-              <a href="http://127.0.0.1:5501/tezt-components/index.html"></a>
+              <a href="/tezt-components/index.html"></a>
               <div class="card-img ">  <img
                 src="https://img.flawlessfiles.com/_r/300x400/100/12/67/126756b57f51180a156a6895b0166643/126756b57f51180a156a6895b0166643.jpg"
                 alt=""
@@ -693,7 +693,7 @@
                     
                   </div>
                  <div class="card-icon position-absolute mee-0  bg-dark mt-2 text-center ">
-                 <a href="http://127.0.0.1:5501/tezt-components/indec.html"><i class="fa-solid fa-plus pt-1 text-light"></i></a> 
+                 <a href="/tezt-components/index.html"><i class="fa-solid fa-plus pt-1 text-light"></i></a> 
                  </div>
                
             </div>
@@ -702,7 +702,7 @@
             <!-- //    -->
             <div class="col-12 col-xxl-2 col-xl-3 col-lg-4 col-sm-6 col-md-4 position-relative">
               ​​​​​​​  ​​     <div class="card bg-dark">
-                <a href="http://127.0.0.1:5501/tezt-components/index.html"></a>
+                <a href="/tezt-components/index.html"></a>
                 <div class="card-img ">
                   <img
                   src="https://img.flawlessfiles.com/_r/300x400/100/b1/47/b147d331e311a5d5c8ee81269725fc92/b147d331e311a5d5c8ee81269725fc92.png"
@@ -719,7 +719,7 @@
                       
                     </div>
                    <div class="card-icon position-absolute mee-0  bg-dark mt-2 text-center ">
-                   <a href="http://127.0.0.1:5501/tezt-components/indec.html"><i class="fa-solid fa-plus pt-1 text-light"></i></a> 
+                   <a href="/tezt-components/index.html"><i class="fa-solid fa-plus pt-1 text-light"></i></a> 
                    </div>
                  
               </div>
@@ -728,7 +728,7 @@
               <!-- // -->
               <div class="col-12 col-xxl-2 col-xl-3 col-lg-4 col-sm-6 col-md-4 position-relative">
                 ​​​​​​​  ​​     <div class="card bg-dark">
-                  <a href="http://127.0.0.1:5501/tezt-components/index.html"></a>
+                  <a href="/tezt-components/index.html"></a>
                   <div class="card-img ">
                     <img
                     src="https://img.flawlessfiles.com/_r/300x400/100/9f/af/9faf29fb396c436d19ed83fa82a31e2f/9faf29fb396c436d19ed83fa82a31e2f.jpg"
@@ -745,7 +745,7 @@
                         
                       </div>
                      <div class="card-icon position-absolute mee-0  bg-dark mt-2 text-center ">
-                     <a href="http://127.0.0.1:5501/tezt-components/indec.html"><i class="fa-solid fa-plus pt-1 text-light"></i></a> 
+                     <a href="/tezt-components/index.html"><i class="fa-solid fa-plus pt-1 text-light"></i></a> 
                      </div>
                    
                 </div>
@@ -754,7 +754,7 @@
                 <!-- // -->
                 <div class="col-12 col-xxl-2 col-xl-3 col-lg-4 col-sm-6 col-md-4 position-relative">
                   ​​​​​​​  ​​     <div class="card bg-dark position-relative">
-                    <a href="http://127.0.0.1:5501/tezt-components/index.html"></a>
+                    <a href="/tezt-components/index.html"></a>
                     <div class="card-img position-absolute">
                       <img
                       src="https://img.flawlessfiles.com/_r/300x400/100/6a/c7/6ac7e4623d5c97699058b8b4673cf8e5/6ac7e4623d5c97699058b8b4673cf8e5.png"
@@ -771,7 +771,7 @@
                       
                     </div>
                    <div class="card-icon position-absolute mee-0  bg-dark mt-2 text-center ">
-                   <a href="http://127.0.0.1:5501/tezt-components/indec.html"><i class="fa-solid fa-plus pt-1 text-light"></i></a> 
+                   <a href="/tezt-components/index.html"><i class="fa-solid fa-plus pt-1 text-light"></i></a> 
                    </div>
                   
                     
@@ -780,7 +780,7 @@
                 <!-- // -->
                   <div class="col-12 col-xxl-2 col-xl-3 col-lg-4 col-sm-6 col-md-4 position-relative">
                   ​​​​​​​  ​​     <div class="card bg-dark">
-                    <a href="http://127.0.0.1:5501/tezt-components/index.html"></a>
+                    <a href="/tezt-components/index.html"></a>
                     <div class="card-img ">
                       <img
                       src="https://img.flawlessfiles.com/_r/300x400/100/cb/e9/cbe9999ab6606992fb000566ebf5d99b/cbe9999ab6606992fb000566ebf5d99b.jpg"
@@ -797,7 +797,7 @@
                           
                         </div>
                        <div class="card-icon position-absolute mee-0  bg-dark mt-2 text-center ">
-                       <a href="http://127.0.0.1:5501/tezt-components/indec.html"><i class="fa-solid fa-plus pt-1 text-light"></i></a> 
+                       <a href="/tezt-components/index.html"><i class="fa-solid fa-plus pt-1 text-light"></i></a> 
                        </div>
                     
                   </div>
@@ -806,7 +806,7 @@
                   <!-- // -->
                   <div class="col-12 col-xxl-2 col-xl-3 col-lg-4 col-sm-6 col-md-4 position-relative">
                   ​​​​​​​  ​​     <div class="card bg-dark">
-                    <a href="http://127.0.0.1:5501/tezt-components/index.html"></a>
+                    <a href="/tezt-components/index.html"></a>
                     <div class="card-img ">
                       <img
                       src="https://img.flawlessfiles.com/_r/300x400/100/cc/bc/ccbc20fd8ddf9b2000bf23894a787436/ccbc20fd8ddf9b2000bf23894a787436.jpg"
@@ -823,7 +823,7 @@
                           
                         </div>
                        <div class="card-icon position-absolute mee-0  bg-dark mt-2 text-center ">
-                       <a href="http://127.0.0.1:5501/tezt-components/indec.html"><i class="fa-solid fa-plus pt-1 text-light"></i></a> 
+                       <a href="/tezt-components/index.html"><i class="fa-solid fa-plus pt-1 text-light"></i></a> 
                        </div>
                       
                   </div>
@@ -832,7 +832,7 @@
                   <!-- //  -->
                   <div class="col-12 col-xxl-2 col-xl-3 col-lg-4 col-sm-6 col-md-4 position-relative">
                   ​​​​​​​  ​​     <div class="card bg-dark">
-                    <a href="http://127.0.0.1:5501/tezt-components/index.html"></a>
+                    <a href="/tezt-components/index.html"></a>
                     <div class="card-img ">  <img
                       src="https://img.flawlessfiles.com/_r/300x400/100/d9/bb/d9bb23228e5a641b5a3e9386382dae3a/d9bb23228e5a641b5a3e9386382dae3a.jpg"
                       alt=""
@@ -847,7 +847,7 @@
                           
                         </div>
                        <div class="card-icon position-absolute mee-0  bg-dark mt-2 text-center ">
-                       <a href="http://127.0.0.1:5501/tezt-components/indec.html"><i class="fa-solid fa-plus pt-1 text-light"></i></a> 
+                       <a href="/tezt-components/index.html"><i class="fa-solid fa-plus pt-1 text-light"></i></a> 
                        </div>
                      
                   </div>
@@ -856,7 +856,7 @@
                   <!-- //    -->
                   <div class="col-12 col-xxl-2 col-xl-3 col-lg-4 col-sm-6 col-md-4 position-relative">
                     ​​​​​​​  ​​     <div class="card bg-dark">
-                      <a href="http://127.0.0.1:5501/tezt-components/index.html"></a>
+                      <a href="/tezt-components/index.html"></a>
                       <div class="card-img ">
                         <img
                         src="https://img.flawlessfiles.com/_r/300x400/100/ed/fc/edfc7fe935b6eac2d704cf5b0a60e356/edfc7fe935b6eac2d704cf5b0a60e356.jpg"
@@ -873,7 +873,7 @@
                             
                           </div>
                          <div class="card-icon position-absolute mee-0  bg-dark mt-2 text-center ">
-                         <a href="http://127.0.0.1:5501/tezt-components/indec.html"><i class="fa-solid fa-plus pt-1 text-light"></i></a> 
+                         <a href="/tezt-components/index.html"><i class="fa-solid fa-plus pt-1 text-light"></i></a> 
                          </div>
                        
                     </div>
@@ -882,7 +882,7 @@
                     <!-- // -->
                     <div class="col-12 col-xxl-2 col-xl-3 col-lg-4 col-sm-6 col-md-4 position-relative">
                       ​​​​​​​  ​​     <div class="card bg-dark">
-                        <a href="http://127.0.0.1:5501/tezt-components/index.html"></a>
+                        <a href="/tezt-components/index.html"></a>
                         <div class="card-img ">
                           <img
                           src="https://img.flawlessfiles.com/_r/300x400/100/88/bd/88bd17534dc4884f23027035d23d74e5/88bd17534dc4884f23027035d23d74e5.jpg"
@@ -899,7 +899,7 @@
                               
                             </div>
                            <div class="card-icon position-absolute mee-0  bg-dark mt-2 text-center ">
-                           <a href="http://127.0.0.1:5501/tezt-components/indec.html"><i class="fa-solid fa-plus pt-1 text-light"></i></a> 
+                           <a href="/tezt-components/index.html"><i class="fa-solid fa-plus pt-1 text-light"></i></a> 
                            </div>
                          
                       </div>
@@ -1203,24 +1203,24 @@
 					<p>Our website offers a wide range of anime that you can watch for free with high quality. You can also support us by becoming a member.
 
           </p>
-					<p><a class="btn btn-discoveryq " href="http://127.0.0.1:5501/Become%20member%20form/index.html">Become A Member</a></p>
+					<p><a class="btn btn-discoveryq " href="/Register/index.html">Become A Member</a></p>
 				</div>
 				<div class="col-md-8 col-12 d-flex class-footer">
 					<div class="col-md-4 col-sm-4 col-xs-6">
 						<ul class="fh5co-footer-links a">
 					    <h3 class="text-discovery">Genres</h3>
-							<li><a href="http://127.0.0.1:5501/page-romance/index.html">Romance</a></li>
-							<li><a href="http://127.0.0.1:5501/page-action/index.html">Fighting</a></li>
-							<li><a href="http://127.0.0.1:5501/page-sport/index.html">Sport</a></li>
-							<li><a href="http://127.0.0.1:5501/main-page/index.html">School</a></li>
+							<li><a href="/page-romance/index.html">Romance</a></li>
+							<li><a href="/page-action/index.html">Fighting</a></li>
+							<li><a href="/page-sport/index.html">Sport</a></li>
+							<li><a href="/main-page/index.html">School</a></li>
 						</ul>
 					</div>
 
 
 					<div class="col-md-4 col-sm-4 col-xs-6">
 						<ul class="fh5co-footer-links ps-md-3">
-							<li><a href="http://127.0.0.1:5501/pag-magic/index.html">Magic</a></li>
-							<li><a href="http://127.0.0.1:5501/page-funny/index.html">Kids</a></li>
+							<li><a href="/page-magic/index.html">Magic</a></li>
+							<li><a href="/page-funny/index.html">Kids</a></li>
 							<li><a href="#">Fantasy</a></li>
 							<li><a href="#">Demons</a></li>
 							<li><a href="#">Horror</a></li>
@@ -1256,3 +1256,6 @@ navbarToggler.addEventListener("click", () => {
 
   </script>
 </html>
+
+
+

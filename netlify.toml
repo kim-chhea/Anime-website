@@ -1,0 +1,10 @@
+[build]
+  publish = "."
+
+# If you later add a build step, add it here, e.g.
+# command = "npm run build"
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
